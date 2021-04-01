@@ -1,0 +1,23 @@
+.data-container {
+  padding: 0.5em;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.butang {
+  background-color: thistle;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  padding: 0.3em;
+  margin: 0.2em;
+}
+
+.teks-data {
+  margin: 1em;
+  padding: 0.6em;
+  text-decoration: none;
+  text-align: center;
+}
